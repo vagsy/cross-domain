@@ -1,0 +1,16 @@
+{
+  "name": "cross-domain",
+  "version": "1.0.0",
+  "description": "实现跨域\r jsonp\r cors\r postMessage\r window.name\r location.hash\r http-proxy\r nginx\r websocket\r document.domain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "maple",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "http-proxy-middleware": "^0.18.0",
+    "socket.io": "^2.1.1"
+  }
+}
